@@ -2,7 +2,7 @@
 
 Raylib C++ Starter Template for Visual Studio Code on Windows.
 
-This demo project contains a bouncing ball raylib example program.
+This demo project contains a bouncing ball Raylib example program.
 
 It works with Raylib version 4.5.
 Tested on both Windows 10 and Windows 11.
